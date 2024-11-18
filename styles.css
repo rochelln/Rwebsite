@@ -88,6 +88,13 @@ nav ul a:hover{
     color: #a76316;
 }
 
+.about-content {
+    display: grid; 
+    grid-template-columns: 1fr auto; 
+    align-items: center; 
+    margin: 20px;
+}
+
 .about-image {
     margin-left: 70%;
     width: 150px;
