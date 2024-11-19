@@ -73,7 +73,7 @@ nav ul a:hover{
     color: #a76316;
 }
 
-.introduction, .featured-projects, .personal-info, .skill{
+.introduction, .featured-projects, .personal-info {
     padding: 20px;
     margin: 20px;
     background: #fff;
