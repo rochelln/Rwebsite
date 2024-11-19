@@ -52,6 +52,13 @@ nav ul a:hover{
     color: white;
 }
 
+.skill {
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 5px;
+}
+
 .skill p {
     margin: 5px 0;
 }
