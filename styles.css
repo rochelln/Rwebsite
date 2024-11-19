@@ -52,28 +52,28 @@ nav ul a:hover{
     color: white;
 }
 
-.skills {
+.skill {
     padding: 20px;
     margin: 20px;
     background: #fff;
     border-radius: 5px;
 }
 
-.skills p {
+.skill p {
     margin: 5px 0;
 }
 
-.skills a {
+.skill a {
     color: black;
     text-decoration: none;
 }
 
-.skills a:hover {
+.skill a:hover {
     text-decoration: underline;
     color: #a76316;
 }
 
-.introduction, .featured-projects, .personal-info {
+.introduction, .featured-projects, .personal-info, .skill{
     padding: 20px;
     margin: 20px;
     background: #fff;
