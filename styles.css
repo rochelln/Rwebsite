@@ -36,9 +36,10 @@ nav ul a:hover{
 }
 
 .introduction {
+    display: grid;
     grid-template-columns: 1fr auto; 
     align-items: center; 
-    margin: 20px;
+    margin: 0px;
     padding: 20px;
     max-width: 800px;
     background: white;
