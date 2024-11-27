@@ -39,7 +39,7 @@ nav ul a:hover{
     display: grid;
     grid-template-columns: 1fr auto; 
     align-items: center; 
-    margin: 20px;
+    margin: 20px auto;
     padding: 20px;
     max-width: 800px;
     background: white;
@@ -57,7 +57,6 @@ nav ul a:hover{
     width: 150px;
     height: auto;
     border-radius: 50%;
-    padding: 20px;
 }
 
 .skill {
@@ -68,6 +67,7 @@ nav ul a:hover{
 
 .skill ul li {
     display: inline;
+    margin: 20px;
 }
 
 .skill h2 {
@@ -78,6 +78,8 @@ nav ul a:hover{
 .skill a {
     color: black;
     text-decoration: none;
+    justify-content: center;
+    text-align: center;
 }
 
 .skill a:hover {
