@@ -6,6 +6,7 @@
     margin: 20px;
     border-radius: 8px;
     background: white;
+    box-shadow: 0 3px 5px rgba(26, 9, 9, 0.1);
 }
 
 .intro-content {
@@ -56,12 +57,12 @@ nav ul a:hover{
 }
 
 .skill {
-    margin: 5px 0;
+    margin: 20px auto;
     padding:20 px;
     background: white;
 }
 
-.skill ul {
+.skill ul li {
     text-align: center;
     justify-content: center;
     flex-direction:flex;
