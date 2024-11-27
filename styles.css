@@ -46,7 +46,8 @@ nav ul a:hover{
 }
 
 .intro-content {
-    margin-right: 20px; 
+    margin-right: 20px;
+    margin: 20px auto;
 }
 
 .profile-image {
@@ -59,6 +60,10 @@ nav ul a:hover{
     margin: 20px auto;
     padding:20 px;
     background: white;
+}
+
+.skill h2 {
+    text-align: start;
 }
 
 .skill ul li {
@@ -81,6 +86,10 @@ nav ul a:hover{
     margin: 20px;
     background: #fff;
     border-radius: 5px;
+}
+
+.featured-projects h2{
+    text-align: start;
 }
 
 .about-container {
