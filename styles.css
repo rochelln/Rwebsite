@@ -39,6 +39,8 @@ nav ul a:hover{
     display: grid;
     grid-template-columns: 1fr auto; 
     align-items: center; 
+    margin-top: 20px;
+    mwrgin-bottom: 20px;
     margin: 0px;
     padding: 20px;
     max-width: 800px;
@@ -64,6 +66,9 @@ nav ul a:hover{
     margin: 20px auto;
     padding:20 px;
     background: white;
+}
+
+.skill ul li {
     display: flex;
 }
 
