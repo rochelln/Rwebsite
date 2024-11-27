@@ -55,6 +55,7 @@ nav ul a:hover{
     width: 150px;
     height: auto;
     border-radius: 50%;
+    margin-left: 10px;
 }
 
 .skill {
@@ -78,11 +79,10 @@ nav ul a:hover{
     color: #a76316;
 }
 
-.featured-projects, .personal-info {
+.featured-projects {
     padding: 20px;
     margin: 20px;
     background: #fff;
-    border-radius: 5px;
 }
 
 .featured-projects h3{
@@ -97,6 +97,13 @@ nav ul a:hover{
     background: white;
     border-radius: 8px;
     box-shadow: 0 3px 5px rgba(26, 9, 9, 0.1);
+}
+
+.personal-info {
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 5px;
 }
 
 .about-content h2{
