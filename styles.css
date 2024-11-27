@@ -36,7 +36,7 @@ nav ul a:hover{
 }
 
 .introduction {
-    display: grid; 
+    display: flex; 
     grid-template-columns: 1fr auto; 
     align-items: center; 
     margin: 20px;
