@@ -88,9 +88,9 @@ nav ul a:hover{
 }
 
 .featured-projects {
-    padding: 90px;
-    margin: 10px;
-    background: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    background: white;
 }
 
 .featured-projects h3{
